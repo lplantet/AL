@@ -3,6 +3,7 @@ TP Projet d'Architecture Logicielle
 
 #Pour lancer le serveur tomcat il faut lancer le script catalina, qui se trouve dans le dossier AL-TP/apache-tomcat-9.0.6/bin :
 "./catalina.sh run"
+
 #Note : il faut compter quelques minutes avant que le serveur se mette en marche
 
 #Les composants recipes-rss sont lancés avec les commandes suivantes en se plaçant dans le dossier AL-TP/recipes-rss:
